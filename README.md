@@ -1,2 +1,1 @@
-# 4uacademy-frontend-code
-official website frontend code
+# The offical website of 4u academy
